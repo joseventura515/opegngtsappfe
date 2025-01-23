@@ -4,24 +4,24 @@
     $general    = array(
         'titulo_web'            => 'Cloud Satelital',
         'llave_sitio'           => 'Y2xvdWRzYXRlbGl0YWwy',
-        'cuenta_asociada'       => 'sysadmin',
+        'cuenta_asociada'       => 'cloudsatelital',
         'instancia_tomcat'      => 'Track?',
         'api_google_maps'       => 'AIzaSyAChB-PPsNIXMNSE9LnZ0TeZyCqCTFW2EE',
-        'enlace_plataforma'     => 'http://rastreo.tecnytte.com:8080/track/Track?',
-        'enlace_banners'        => 'http://rastreo.tecnytte.com:8080/track/images/banner',
+        'enlace_plataforma'     => 'http://gps.cloudsatelital.com:8080/track/Track?',
+        'enlace_banners'        => 'http://gps.cloudsatelital.com:8080/track/images/banner',
         'country_code'        => '51',
     );
 
     $empresa    = array(
-        'desarrollador'         => 'GRUPO TECNYTTE',
-        'web_desarrollador'     => 'http://tecnytte.com/',
-        'whatsapp'              => '519799645745'
+        'desarrollador'         => 'Cloud Satelital',
+        'web_desarrollador'     => 'http://cloudsatelital.com/',
+        'whatsapp'              => '51992784444'
     );
 
     $database   = array(
         'hostname'  => 'localhost',
         'username'  => 'gts',
-        'password'  => 'opengts',
+        'password'  => 'bHVpc21p',
         'database'  => 'gts',
         'port'      => 3306
     );

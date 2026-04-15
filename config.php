@@ -2,7 +2,7 @@
 <?php
     
     $general    = array(
-        'titulo_web'            => 'Cloud Satelital',
+        'titulo_web'            => 'GRUPO TECNYTTE',
         'llave_sitio'           => 'Y2xvdWRzYXRlbGl0YWwy',
         'cuenta_asociada'       => 'sysadmin',
         'instancia_tomcat'      => 'Track?',
